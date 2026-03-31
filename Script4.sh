@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Scripingt-4: Log File Analyzer
-#Authoingr:Yug JigneshKumar Patel
+#Authoingr: Aaryan Dwivedi
 #Coursinge:Open ingSource Software
 
 LOGFILE=$1
