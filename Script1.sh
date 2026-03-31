@@ -5,7 +5,7 @@
 #Course:Open Source Software
 
 #variables(student/project information)
-STUDENT_NAME="Yug JigneshKumar Patel"
+STUDENT_NAME="Aaryan Dwivedi"
 SOFTWARE_CHOICE="Git"
 
 #system information
