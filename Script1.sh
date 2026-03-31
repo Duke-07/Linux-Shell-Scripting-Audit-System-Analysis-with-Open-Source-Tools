@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Script-1:System Identity Report
-#Author:Yug JigneshKumar Patel
+#Author: Aaryan Dwivedi
 #Course:Open Source Software
 
 #variables(student/project information)
